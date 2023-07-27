@@ -1,0 +1,82 @@
+
+.new
+{
+background: yellow;
+
+border: 6px solid green;
+margin-left: 10px;
+margin-bottom: 40px;
+margin-bottom: 30px;
+margin-right: 20px;
+outline: 5px dotted red;
+padding: 100px;
+text-align: justify;
+
+}
+
+
+.tr{
+background: red ;
+border: 9px double green;
+width: 200px;
+margin-left: 100px;
+outline: 7px solid yellow;
+padding: 150px;
+text-align: center;
+
+
+}
+
+
+#tp{
+background: bisque;
+color: blue;
+
+}
+
+
+
+h1{
+    color: aqua;
+}
+
+.pa{
+background: blueviolet;
+padding: 200px;
+text-align: justify;
+margin: 20px 10px 15px 13px;
+border: 8px solid goldenrod;
+outline: 15px solid red;
+
+
+
+
+}
+
+
+
+
+#oi{
+background: rgb(8, 211, 59);
+padding: 50px;
+outline: 20px solid rebeccapurple;
+margin-top: 25px;
+margin-bottom: 15px;
+margin-left: 10px;
+margin-right: 13px;
+border: 14px double red;
+width: 300px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
